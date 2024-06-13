@@ -19,7 +19,7 @@ const Contact = () => {
   return (
     <div>
       <Navbar />
-      <div className="h-screen flex justify-center items-center mt-52 h-96">
+      <div className="h-screen flex justify-center items-center mt-20 h-96">
         <div className=" ">
           <div className="w-96 border-[2px] p-5">
             <form method="" onSubmit={handleSubmit(onSubmit)}>
